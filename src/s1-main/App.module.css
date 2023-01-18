@@ -1,9 +1,13 @@
 .App {
     --header_height: 60px;
+  display: grid;
+  justify-content: center;
+  align-content: end;
+  grid-template-columns: minmax(auto, 1140px);
 }
 
 .hw {
-  width: 1140px;
+  max-width: 1140px;
   position: relative;
   padding: 24px 0 35px 0;
   margin-bottom: 10px;
