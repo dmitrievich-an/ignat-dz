@@ -13,6 +13,10 @@
   margin-bottom: 10px;
 }
 
+.hw2 {
+  min-height: 277px;
+}
+
 .hw::before{
   content: '';
   position: absolute;
