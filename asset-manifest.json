@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/ignat-dz/static/css/main.eaec531d.css",
-    "main.js": "/ignat-dz/static/js/main.37589dd9.js",
+    "main.css": "/ignat-dz/static/css/main.6a6f76ef.css",
+    "main.js": "/ignat-dz/static/js/main.aac0e650.js",
     "static/js/787.66cb4309.chunk.js": "/ignat-dz/static/js/787.66cb4309.chunk.js",
     "static/media/my-avatar.jpg": "/ignat-dz/static/media/my-avatar.448a1024be31b3dfbfcd.jpg",
     "static/media/friend-avatar.jpg": "/ignat-dz/static/media/friend-avatar.8589aa0f1dcc96075fdb.jpg",
+    "static/media/404.svg": "/ignat-dz/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/ignat-dz/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "index.html": "/ignat-dz/index.html",
     "static/media/checked.svg": "/ignat-dz/static/media/checked.b75ca55e8759862b4083.svg",
-    "main.eaec531d.css.map": "/ignat-dz/static/css/main.eaec531d.css.map",
-    "main.37589dd9.js.map": "/ignat-dz/static/js/main.37589dd9.js.map",
+    "static/media/burger.svg": "/ignat-dz/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.6a6f76ef.css.map": "/ignat-dz/static/css/main.6a6f76ef.css.map",
+    "main.aac0e650.js.map": "/ignat-dz/static/js/main.aac0e650.js.map",
     "787.66cb4309.chunk.js.map": "/ignat-dz/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaec531d.css",
-    "static/js/main.37589dd9.js"
+    "static/css/main.6a6f76ef.css",
+    "static/js/main.aac0e650.js"
   ]
 }
