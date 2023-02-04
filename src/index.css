@@ -14,9 +14,9 @@ body {
   box-sizing: border-box;
   min-height: 100vh;
   display: grid;
-  grid-template-rows: 1fr 1px;
+  /*grid-template-rows: 1fr 1px;*/
   /*justify-content: center;*/
-  align-items: center;
+  align-items: start;
   /*overflow: scroll;*/
 }
 

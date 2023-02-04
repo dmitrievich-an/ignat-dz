@@ -1,9 +1,11 @@
 .App {
     --header_height: 60px;
+  min-height: 100vh;
   display: grid;
   justify-content: center;
-  align-content: end;
+  align-content: start;
   grid-template-columns: minmax(auto, 1140px);
+  /*grid-template-rows: auto auto 1fr;*/
 }
 
 .hw {
